@@ -1,10 +1,7 @@
-/* ==========================================================
-   Subhash S Portfolio: "Sticker" theme (bold, warm, hard shadows)
-   Works with the existing HTML class names. Light + dark modes.
-   ========================================================== */
+
 @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=DM+Sans:wght@400;500;700&display=swap');
 
-/* ---------- Colour + type tokens ---------- */
+
 :root {
   --bg: #FFF4DE;
   --band: #FFE8B3;
