@@ -49,7 +49,7 @@
     a.addEventListener('click',function(e){
       if(a.getAttribute('href')==='#'){
         e.preventDefault();
-        document.getElementById('certmsg').textContent='Certificate for "'+a.textContent.split(',')[0]+'" will be added soon.';
+        document.getElementById('certmsg').textContent='Certificate for "'+a.textContent.split(',')[0]+'" is missing .';
       }
     });
   });
